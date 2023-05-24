@@ -65,10 +65,7 @@
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by US-based housing company named Surprise Housing.
 
 ## Contact
 Created by [@nitink08] - feel free to contact me!
