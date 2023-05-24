@@ -64,7 +64,6 @@
 - sklearn -> metrics - version 1.0.2
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by US-based housing company named Surprise Housing.
 
 ## Contact
